@@ -1,0 +1,5 @@
+business_id, business_type, budget, features_used
+101, "Grocery Store", 2000, "Inventory, Loyalty Program, POS"
+102, "Cafe", 5000, "POS, Online Orders, Loyalty Program"
+103, "Fitness Center", 8000, "Booking, Reminders, Payment Integration"
+...
